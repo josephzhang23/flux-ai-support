@@ -1,1 +1,1 @@
-# flux-ai-support
+# FluxAI Support
